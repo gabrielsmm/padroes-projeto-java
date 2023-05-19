@@ -1,9 +1,9 @@
 package com.gabrielsmm.gof;
 
 import com.gabrielsmm.gof.facade.Facade;
-import com.gabrielsmm.gof.singleton.SingletonEager;
-import com.gabrielsmm.gof.singleton.SingletonLazy;
-import com.gabrielsmm.gof.singleton.SingletonLazyHolder;
+import com.gabrielsmm.gof.criacionais.singleton.SingletonEager;
+import com.gabrielsmm.gof.criacionais.singleton.SingletonLazy;
+import com.gabrielsmm.gof.criacionais.singleton.SingletonLazyHolder;
 import com.gabrielsmm.gof.strategy.*;
 
 public class Main {

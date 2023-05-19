@@ -1,4 +1,4 @@
-package com.gabrielsmm.gof.singleton;
+package com.gabrielsmm.gof.criacionais.singleton;
 
 public class SingletonEager {
 
