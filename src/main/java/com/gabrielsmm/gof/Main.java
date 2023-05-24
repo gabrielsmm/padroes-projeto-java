@@ -1,10 +1,10 @@
 package com.gabrielsmm.gof;
 
-import com.gabrielsmm.gof.facade.Facade;
+import com.gabrielsmm.gof.comportamentais.strategy.robo.*;
+import com.gabrielsmm.gof.estruturais.facade.subsistema.Facade;
 import com.gabrielsmm.gof.criacionais.singleton.SingletonEager;
 import com.gabrielsmm.gof.criacionais.singleton.SingletonLazy;
 import com.gabrielsmm.gof.criacionais.singleton.SingletonLazyHolder;
-import com.gabrielsmm.gof.strategy.*;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package com.gabrielsmm.gof.facade;
+package com.gabrielsmm.gof.estruturais.facade.subsistema;
 
-import com.gabrielsmm.gof.subsistema1.crm.CrmService;
-import com.gabrielsmm.gof.subsistema2.cep.CepApi;
+import com.gabrielsmm.gof.estruturais.facade.subsistema.crm.CrmService;
+import com.gabrielsmm.gof.estruturais.facade.subsistema.cep.CepApi;
 
 public class Facade {
 

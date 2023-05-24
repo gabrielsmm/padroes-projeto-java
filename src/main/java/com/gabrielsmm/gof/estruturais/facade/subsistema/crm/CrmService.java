@@ -1,4 +1,4 @@
-package com.gabrielsmm.gof.subsistema1.crm;
+package com.gabrielsmm.gof.estruturais.facade.subsistema.crm;
 
 public class CrmService {
 

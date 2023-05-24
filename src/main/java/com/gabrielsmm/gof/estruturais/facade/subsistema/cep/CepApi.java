@@ -1,4 +1,4 @@
-package com.gabrielsmm.gof.subsistema2.cep;
+package com.gabrielsmm.gof.estruturais.facade.subsistema.cep;
 
 public class CepApi {
 

@@ -1,4 +1,4 @@
-package com.gabrielsmm.gof.strategy;
+package com.gabrielsmm.gof.comportamentais.strategy.robo;
 
 public class ComportamentoAgressivo implements Comportamento {
 
